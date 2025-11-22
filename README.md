@@ -7,17 +7,13 @@
 
 ## 1. Nome do Aplicativo
 
-**[TICKET PLUS]**
-
-## 2. Logo do Aplicativo
-
-**[ANEXAR LOGO/ÍCONE AQUI]**
+TICKET PLUS
 
 ## 3. Integrantes do Grupo
 
 | Nome Completo | RA (Registro Acadêmico) | E-mail Institucional |
-| :--- | :--- | :--- |
-| [GABRIEL ANDRIOLLI] | [1136706] | [1136706@ATITUS.EDU.BR] |
+
+GABRIEL ANDRIOLI / 1136706 / 1136706@ATITUS.EDU.BR
 
 
 ## 4. Explicação do Tema do Aplicativo
@@ -197,12 +193,12 @@ curl --location 'https://philosophical-martguerita-aaaaaasdasdas-da4b9204.koyeb.
 
 ## 7. Descrição da Contribuição Individual
 
-**[TRABALHO FEITO DE FORMA INDIVIDUAL]** |
+TRABALHO FEITO DE FORMA INDIVIDUAL
 
 ## 8. Link do Repositório do Back-End
 
-**[LINK DO REPOSITÓRIO GITHUB]**
+(https://github.com/gabrielandrioli/java-aapi)
 
 ## 9. Link da API em Produção (nuvem)
 
-**[https://philosophical-martguerita-aaaaaasdasdas-da4b9204.koyeb.app/swagger-ui/index.html#/]**
+https://philosophical-martguerita-aaaaaasdasdas-da4b9204.koyeb.app/swagger-ui/index.html
